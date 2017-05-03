@@ -1,0 +1,2 @@
+# RicherEditTextTest
+test
