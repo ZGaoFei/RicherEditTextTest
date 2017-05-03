@@ -1,2 +1,3 @@
 # RicherEditTextTest
-test
+AVLoadingIndicatorView test and learn.
+ValueAnimator learn.
